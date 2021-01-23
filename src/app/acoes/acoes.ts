@@ -8,5 +8,5 @@ export interface Acao{
 }
 
 export interface AcaoAPI{
-  payLoad: Acoes;
+  payload: Acoes;
 }
